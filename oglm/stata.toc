@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p oglm Generalized Linear Ordinal Regression Models Use oglm With STATA 18
