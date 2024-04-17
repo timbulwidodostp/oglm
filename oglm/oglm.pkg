@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'oglm': Generalized Linear Ordinal Regression Models Use oglm With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f oglm.ado
+f oglm.sthlp
+f oglm_ll.ado
+f oglm_p.ado
+f oglm_svy_check.ado
